@@ -3,6 +3,9 @@
 # Grocery -Landing page application
 
 Welcome to the Grocery Application! This is a user-friendly and easy-to-use landing page built with React, Material UI, and Tailwind CSS.
+defaultUser 
+      email: "user@gmail.com",
+      password: "User1234",
 
 ## Features
 
